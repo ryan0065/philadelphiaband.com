@@ -1,0 +1,14 @@
+/* ----------------------------------------------------------
+Philadelphia Basic Style Sheet (for old browsers)
+This gets replaced by "main.css" if the browser understands @import
+
+Author: Matt Grimm
+last updated: 1/28/07
+---------------------------------------------------------- */
+body {
+	margin: 0;
+	padding: 5%;
+	font: small "Trebuchet MS", tahoma, verdana, arial, sans-serif;
+	color: #535353;
+	background: #fff;
+	}

@@ -1,0 +1,231 @@
+<gallery
+base = ""
+background = "#000000"
+banner = "#333333"
+text = "#FFFFFF"
+link = "#CCCCCC"
+alink = "#EEEEEE"
+vlink = "#666666"
+date = "2007">
+	<sitename>Philadelphia Gallery</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#333333"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#333333" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#333333" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "6640.jpg"
+width = "400"
+height = "320"
+thumbpath = "6640.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "6645.jpg"
+width = "400"
+height = "320"
+thumbpath = "6645.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "6648.jpg"
+width = "320"
+height = "400"
+thumbpath = "6648.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "6654.jpg"
+width = "320"
+height = "400"
+thumbpath = "6654.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "6656.jpg"
+width = "400"
+height = "320"
+thumbpath = "6656.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "6659.jpg"
+width = "400"
+height = "320"
+thumbpath = "6659.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "6665.jpg"
+width = "400"
+height = "320"
+thumbpath = "6665.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "DSC_0118.jpg"
+width = "265"
+height = "400"
+thumbpath = "DSC_0118.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_0119.jpg"
+width = "265"
+height = "400"
+thumbpath = "DSC_0119.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_0121.jpg"
+width = "265"
+height = "400"
+thumbpath = "DSC_0121.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_0125.jpg"
+width = "400"
+height = "265"
+thumbpath = "DSC_0125.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0127.jpg"
+width = "400"
+height = "265"
+thumbpath = "DSC_0127.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0128.jpg"
+width = "400"
+height = "265"
+thumbpath = "DSC_0128.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0134.jpg"
+width = "265"
+height = "400"
+thumbpath = "DSC_0134.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_0136.jpg"
+width = "265"
+height = "400"
+thumbpath = "DSC_0136.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_0138.jpg"
+width = "265"
+height = "400"
+thumbpath = "DSC_0138.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_0139.jpg"
+width = "265"
+height = "400"
+thumbpath = "DSC_0139.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_0140.jpg"
+width = "265"
+height = "400"
+thumbpath = "DSC_0140.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_0149.jpg"
+width = "400"
+height = "265"
+thumbpath = "DSC_0149.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0150.jpg"
+width = "400"
+height = "265"
+thumbpath = "DSC_0150.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0151.jpg"
+width = "265"
+height = "400"
+thumbpath = "DSC_0151.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+</images>
+</gallery>

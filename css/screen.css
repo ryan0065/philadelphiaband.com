@@ -1,0 +1,17 @@
+/* ----------------------------------------------------------
+Philadelphia Screen
+
+Author: Matt Grimm
+last updated: 1/28/07
+---------------------------------------------------------- */
+@import 'main.css'; /* version 4 browsers ignore (no url() single quote) */
+
+
+
+
+/* IE Hacks
+--------------------------------------------------------------- */
+
+/* Duplicate Characters Bug 
+   http://www.positioniseverything.net/explorer/dup-characters.html */
+* html #footer {margin-right:-3px;}
